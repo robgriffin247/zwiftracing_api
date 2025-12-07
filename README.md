@@ -14,6 +14,7 @@ This contains basic usage of all zwiftracing.app API endpoints. See the associat
 
 ## Coming soon...
 
+- setting up a dev environment
 - dlt
 - duckdb/motherduck
 - dbt
