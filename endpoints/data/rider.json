@@ -1,0 +1,93 @@
+{
+  "riderId": 4598636,
+  "name": "Rob Griffin [T&S]",
+  "gender": "M",
+  "country": "se",
+  "age": "Mas",
+  "height": 185,
+  "weight": 77,
+  "zpCategory": "B",
+  "zpFTP": 304,
+  "power": {
+    "wkg5": 11.9481,
+    "wkg15": 10.935064935064934,
+    "wkg30": 9.0649,
+    "wkg60": 7.3896,
+    "wkg120": 5.461538461538462,
+    "wkg300": 4.82051282051282,
+    "wkg1200": 4.337662337662338,
+    "w5": 920,
+    "w15": 842,
+    "w30": 698,
+    "w60": 569,
+    "w120": 426,
+    "w300": 376,
+    "w1200": 334,
+    "CP": 319.5566286801363,
+    "AWC": 17675.10550659254,
+    "compoundScore": 1678.2526115859448
+  },
+  "race": {
+    "last": {
+      "rating": 1803.825984748603,
+      "date": 1764788400,
+      "mixed": {
+        "category": "Emerald",
+        "number": 3
+      }
+    },
+    "current": {
+      "rating": 1803.825984748603,
+      "date": 1764788400,
+      "mixed": {
+        "category": "Emerald",
+        "number": 3
+      }
+    },
+    "max30": {
+      "rating": 1811.9235613738188,
+      "date": 1763492640,
+      "expires": 1767380400,
+      "mixed": {
+        "category": "Emerald",
+        "number": 3
+      }
+    },
+    "max90": {
+      "rating": 1811.9235613738188,
+      "date": 1763492640,
+      "expires": 1772564400,
+      "mixed": {
+        "category": "Emerald",
+        "number": 3
+      }
+    },
+    "finishes": 9,
+    "dnfs": 0,
+    "wins": 1,
+    "podiums": 2
+  },
+  "handicaps": {
+    "profile": {
+      "flat": 0.5873884140551162,
+      "rolling": -58.31927825261149,
+      "hilly": -68.38879392212718,
+      "mountainous": -23.847969610636326
+    }
+  },
+  "phenotype": {
+    "scores": {
+      "sprinter": 95.9,
+      "puncheur": 97.4,
+      "pursuiter": 92.2,
+      "climber": 94.1,
+      "tt": 96.2
+    },
+    "value": "All-Rounder",
+    "bias": 2.5
+  },
+  "club": {
+    "id": 20650,
+    "name": "Tea & Scone"
+  }
+}

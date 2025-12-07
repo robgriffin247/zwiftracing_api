@@ -1,0 +1,1658 @@
+{
+  "clubId": 20650,
+  "name": "Tea & Scone",
+  "riders": [
+    {
+      "riderId": 4598636,
+      "name": "Rob Griffin [T&S]",
+      "gender": "M",
+      "country": "se",
+      "age": "Mas",
+      "height": 185,
+      "weight": 77,
+      "zpCategory": "B",
+      "zpFTP": 304,
+      "power": {
+        "wkg5": 11.9481,
+        "wkg15": 10.935064935064934,
+        "wkg30": 9.0649,
+        "wkg60": 7.3896,
+        "wkg120": 5.461538461538462,
+        "wkg300": 4.82051282051282,
+        "wkg1200": 4.337662337662338,
+        "w5": 920,
+        "w15": 842,
+        "w30": 698,
+        "w60": 569,
+        "w120": 426,
+        "w300": 376,
+        "w1200": 334,
+        "CP": 319.5566286801363,
+        "AWC": 17675.10550659254,
+        "compoundScore": 1678.2526115859448
+      },
+      "race": {
+        "last": {
+          "rating": 1803.825984748603,
+          "date": 1764788400,
+          "mixed": {
+            "category": "Emerald",
+            "number": 3
+          }
+        },
+        "current": {
+          "rating": 1803.825984748603,
+          "date": 1764788400,
+          "mixed": {
+            "category": "Emerald",
+            "number": 3
+          }
+        },
+        "max30": {
+          "rating": 1811.9235613738188,
+          "date": 1763492640,
+          "expires": 1767380400,
+          "mixed": {
+            "category": "Emerald",
+            "number": 3
+          }
+        },
+        "max90": {
+          "rating": 1811.9235613738188,
+          "date": 1763492640,
+          "expires": 1772564400,
+          "mixed": {
+            "category": "Emerald",
+            "number": 3
+          }
+        },
+        "finishes": 9,
+        "dnfs": 0,
+        "wins": 1,
+        "podiums": 2
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 0.5873884140551162,
+          "rolling": -58.31927825261149,
+          "hilly": -68.38879392212718,
+          "mountainous": -23.847969610636326
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 95.9,
+          "puncheur": 97.4,
+          "pursuiter": 92.2,
+          "climber": 94.1,
+          "tt": 96.2
+        },
+        "value": "All-Rounder",
+        "bias": 2.5
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 5026980,
+      "name": "Tim Sharp",
+      "gender": "M",
+      "country": "gb",
+      "age": "Vet",
+      "height": 180,
+      "weight": 79,
+      "zpCategory": "C",
+      "zpFTP": 231,
+      "power": {
+        "wkg5": 14.9362,
+        "wkg15": 13.4694,
+        "wkg30": 9.7975,
+        "wkg60": 6.5949,
+        "wkg120": 4.7848,
+        "wkg300": 3.699,
+        "wkg1200": 3.074,
+        "w5": 1171,
+        "w15": 1056,
+        "w30": 774,
+        "w60": 521,
+        "w120": 378,
+        "w300": 290,
+        "w1200": 241,
+        "CP": 224.06607549634293,
+        "AWC": 20516.4454888937,
+        "compoundScore": 990.9967978396816
+      },
+      "race": {
+        "last": {
+          "rating": 1056.308606554283,
+          "date": 1764873000,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "current": {
+          "rating": 1056.308606554283,
+          "date": 1764873000,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "max30": {
+          "rating": 1151.7535782150217,
+          "date": 1762888020,
+          "expires": 1767465000,
+          "mixed": {
+            "category": "Platinum",
+            "number": 6
+          }
+        },
+        "max90": {
+          "rating": 1229.08416899173,
+          "date": 1757442600,
+          "expires": 1772649000,
+          "mixed": {
+            "category": "Platinum",
+            "number": 6
+          }
+        },
+        "finishes": 18,
+        "dnfs": 0,
+        "wins": 1,
+        "podiums": 4
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 172.58209234378052,
+          "rolling": 45.83360190008527,
+          "hilly": -77.05000103203528,
+          "mountainous": -231.86352079055035
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 99.6,
+          "puncheur": 92.7,
+          "pursuiter": 58.9,
+          "climber": 47.2,
+          "tt": 50.8
+        },
+        "value": "Sprinter",
+        "bias": 24.999999999999986
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 5067167,
+      "name": "Tommy Watts (T&S) 🤙🏾",
+      "gender": "M",
+      "country": "us",
+      "age": "Vet",
+      "height": 177,
+      "weight": 86.182,
+      "zpCategory": "C",
+      "zpFTP": 249,
+      "power": {
+        "wkg5": 11.0209,
+        "wkg15": 9.7332,
+        "wkg30": 9.0371,
+        "wkg60": 6.6821,
+        "wkg120": 4.6288,
+        "wkg300": 4.0495695156761276,
+        "wkg1200": 3.1671,
+        "w5": 950,
+        "w15": 839,
+        "w30": 779,
+        "w60": 576,
+        "w120": 399,
+        "w300": 349,
+        "w1200": 273,
+        "CP": 245.17041627400198,
+        "AWC": 35222.21541584049,
+        "compoundScore": 1250.319634791555
+      },
+      "race": {
+        "last": {
+          "rating": 1299.8342011439959,
+          "date": 1764702180,
+          "mixed": {
+            "category": "Platinum",
+            "number": 6
+          }
+        },
+        "current": {
+          "rating": 1299.8342011439959,
+          "date": 1764702180,
+          "mixed": {
+            "category": "Platinum",
+            "number": 6
+          }
+        },
+        "max30": {
+          "rating": 1299.8342011439959,
+          "date": 1764702180,
+          "expires": 1767294180,
+          "mixed": {
+            "category": "Platinum",
+            "number": 6
+          }
+        },
+        "max90": {
+          "rating": 1299.8342011439959,
+          "date": 1764702180,
+          "expires": 1772478180,
+          "mixed": {
+            "category": "Platinum",
+            "number": 6
+          }
+        },
+        "finishes": 21,
+        "dnfs": 0,
+        "wins": 1,
+        "podiums": 2
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 146.16236530713292,
+          "rolling": -11.252876713123797,
+          "hilly": -69.3927397309311,
+          "mountainous": -228.53342284720028
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 98.5,
+          "puncheur": 93.3,
+          "pursuiter": 72.7,
+          "climber": 51.9,
+          "tt": 73.4
+        },
+        "value": "Sprinter",
+        "bias": 19.400000000000006
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 5364779,
+      "name": ". Paul (T&S)  🫖",
+      "gender": "M",
+      "country": "gb-sct",
+      "age": "50+",
+      "height": 176,
+      "weight": 80.8,
+      "zpCategory": "C",
+      "zpFTP": 213,
+      "power": {
+        "wkg5": 13.7944,
+        "wkg15": 11.1937,
+        "wkg30": 9.0499,
+        "wkg60": 5.4479,
+        "wkg120": 3.9387,
+        "wkg300": 3.452970297029703,
+        "wkg1200": 2.6994,
+        "w5": 1127,
+        "w15": 919,
+        "w30": 743,
+        "w60": 444,
+        "w120": 321,
+        "w300": 279,
+        "w1200": 220,
+        "CP": 197.40996224508942,
+        "AWC": 28801.840233810573,
+        "compoundScore": 878.009202700977
+      },
+      "race": {
+        "last": {
+          "rating": 883.9178607747624,
+          "date": 1765045200,
+          "mixed": {
+            "category": "Silver",
+            "number": 8
+          }
+        },
+        "current": {
+          "rating": 883.9178607747624,
+          "date": 1765045200,
+          "mixed": {
+            "category": "Silver",
+            "number": 8
+          }
+        },
+        "max30": {
+          "rating": 887.8269314063333,
+          "date": 1763492820,
+          "expires": 1767637200,
+          "mixed": {
+            "category": "Silver",
+            "number": 8
+          }
+        },
+        "max90": {
+          "rating": 892.9708720758418,
+          "date": 1761327000,
+          "expires": 1772821200,
+          "mixed": {
+            "category": "Silver",
+            "number": 8
+          }
+        },
+        "finishes": 18,
+        "dnfs": 4,
+        "wins": 1,
+        "podiums": 5
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 157.7782537253656,
+          "rolling": -69.58222931405241,
+          "hilly": -129.9453619997446,
+          "mountainous": -240.29355859520336
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 98.8,
+          "puncheur": 76.5,
+          "pursuiter": 48,
+          "climber": 28.2,
+          "tt": 35.3
+        },
+        "value": "Sprinter",
+        "bias": 35.925
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 5556489,
+      "name": "Marlon Brüntje",
+      "gender": "M",
+      "country": "de",
+      "age": "Mas",
+      "height": 174,
+      "weight": 67,
+      "zpCategory": "C",
+      "zpFTP": 210,
+      "power": {
+        "wkg5": 8.6269,
+        "wkg15": 7.3582,
+        "wkg30": 5.9254,
+        "wkg60": 5.0896,
+        "wkg120": 4.5672,
+        "wkg300": 3.8955,
+        "wkg1200": 3.656716417910448,
+        "w5": 578,
+        "w15": 493,
+        "w30": 397,
+        "w60": 341,
+        "w120": 306,
+        "w300": 261,
+        "w1200": 245,
+        "CP": 239.40186880638387,
+        "AWC": 6736.978879778846,
+        "compoundScore": 1004.3583235372342
+      },
+      "race": {
+        "last": {
+          "rating": 1156.0879623728918,
+          "date": 1764090600,
+          "mixed": {
+            "category": "Platinum",
+            "number": 6
+          }
+        },
+        "current": {
+          "rating": 1156.0879623728918,
+          "date": 1764090600,
+          "mixed": {
+            "category": "Platinum",
+            "number": 6
+          }
+        },
+        "max30": {
+          "rating": 1156.0879623728918,
+          "date": 1764090600,
+          "expires": 1766682600,
+          "mixed": {
+            "category": "Platinum",
+            "number": 6
+          }
+        },
+        "max90": {
+          "rating": 1156.0879623728918,
+          "date": 1764090600,
+          "expires": 1771866600,
+          "mixed": {
+            "category": "Platinum",
+            "number": 6
+          }
+        },
+        "finishes": 6,
+        "dnfs": 0,
+        "wins": 0,
+        "podiums": 0
+      },
+      "handicaps": {
+        "profile": {
+          "flat": -27.268328484035845,
+          "rolling": -21.84479353693478,
+          "hilly": -33.394914257612925,
+          "mountainous": 13.36800928628072
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 58,
+          "puncheur": 68.9,
+          "pursuiter": 66.8,
+          "climber": 75.7,
+          "tt": 53.4
+        },
+        "value": "Climber",
+        "bias": 8.350000000000009
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 5639087,
+      "name": "L . (T&S)",
+      "gender": "M",
+      "country": "us",
+      "age": "Mas",
+      "height": 178,
+      "weight": 85,
+      "zpCategory": "C",
+      "zpFTP": 250,
+      "power": {
+        "wkg5": 12.879518072289157,
+        "wkg15": 11.698795180722891,
+        "wkg30": 9.698795180722891,
+        "wkg60": 6.469879518072289,
+        "wkg120": 4.9277,
+        "wkg300": 4.168674698795181,
+        "wkg1200": 3.289156626506024,
+        "w5": 1069,
+        "w15": 971,
+        "w30": 805,
+        "w60": 537,
+        "w120": 409,
+        "w300": 346,
+        "w1200": 273,
+        "CP": 243.31545482669955,
+        "AWC": 38120.16338910128,
+        "compoundScore": 1298.5248473116844
+      },
+      "race": {
+        "last": {
+          "rating": 1535.695047463935,
+          "date": 1764702180,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "current": {
+          "rating": 1535.695047463935,
+          "date": 1764702180,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "max30": {
+          "rating": 1535.695047463935,
+          "date": 1764702180,
+          "expires": 1767294180,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "max90": {
+          "rating": 1552.664644713522,
+          "date": 1758650700,
+          "expires": 1772478180,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "finishes": 4,
+        "dnfs": 0,
+        "wins": 0,
+        "podiums": 1
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 142.2533970229952,
+          "rolling": 13.309879684944935,
+          "hilly": -41.87742632580166,
+          "mountainous": -212.9970307045355
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 98.9,
+          "puncheur": 91.5,
+          "pursuiter": 76.7,
+          "climber": 58.4,
+          "tt": 73.4
+        },
+        "value": "Sprinter",
+        "bias": 17.525000000000006
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 5710492,
+      "name": "Dayvon Jamar",
+      "gender": "M",
+      "country": "us",
+      "age": "Mas",
+      "height": 170,
+      "weight": 93,
+      "zpCategory": "D",
+      "zpFTP": 184,
+      "power": {
+        "wkg5": 6.2258,
+        "wkg15": 4.3656,
+        "wkg30": 3.5269,
+        "wkg60": 3.1613,
+        "wkg120": 2.8925,
+        "wkg300": 2.6667,
+        "wkg1200": 2.4839,
+        "w5": 579,
+        "w15": 406,
+        "w30": 328,
+        "w60": 294,
+        "w120": 269,
+        "w300": 248,
+        "w1200": 231,
+        "CP": 224.06875699820057,
+        "AWC": 8802.369753936488,
+        "compoundScore": 564.1435871397638
+      },
+      "race": {
+        "last": {
+          "rating": 576.693354957756,
+          "date": 1761869400,
+          "mixed": {
+            "category": "Copper",
+            "number": 10
+          }
+        },
+        "current": {
+          "rating": 576.693354957756,
+          "date": 1761869400,
+          "mixed": {
+            "category": "Copper",
+            "number": 10
+          }
+        },
+        "max30": {
+          "rating": 0,
+          "expires": 1764461400
+        },
+        "max90": {
+          "rating": 576.693354957756,
+          "date": 1761869400,
+          "expires": 1769645400,
+          "mixed": {
+            "category": "Copper",
+            "number": 10
+          }
+        },
+        "finishes": 1,
+        "dnfs": 0,
+        "wins": 0,
+        "podiums": 0
+      },
+      "handicaps": {
+        "profile": {
+          "flat": -10.521277900156596,
+          "rolling": -14.244625575279034,
+          "hilly": -10.29562046530069,
+          "mountainous": 2.115538451774119
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 56.1,
+          "puncheur": 12.5,
+          "pursuiter": 13.6,
+          "climber": 16.1,
+          "tt": 38.6
+        },
+        "value": "Sprinter",
+        "bias": 31.525000000000006
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 5743020,
+      "name": "@ Dominic [T&S]",
+      "gender": "M",
+      "country": "ca",
+      "age": "Mas",
+      "height": 184,
+      "weight": 87,
+      "zpCategory": "C",
+      "zpFTP": 243,
+      "power": {
+        "wkg5": 10.2952,
+        "wkg15": 8.7816,
+        "wkg30": 7.3448,
+        "wkg60": 5.8,
+        "wkg120": 4.2588,
+        "wkg300": 3.4235,
+        "wkg1200": 3.0235,
+        "w5": 872,
+        "w15": 764,
+        "w30": 639,
+        "w60": 503,
+        "w120": 362,
+        "w300": 293,
+        "w1200": 257,
+        "CP": 244.55383793995978,
+        "AWC": 15040.519868413945,
+        "compoundScore": 887.0540572773973
+      },
+      "race": {
+        "last": {
+          "rating": 1000.2372401891824,
+          "date": 1758907800,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "current": {
+          "rating": 1000.2372401891824,
+          "date": 1758907800,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "max30": {
+          "rating": 0,
+          "expires": 1761499800
+        },
+        "max90": {
+          "rating": 1012.4659370848625,
+          "date": 1757963400,
+          "expires": 1766683800,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "finishes": 8,
+        "dnfs": 0,
+        "wins": 1,
+        "podiums": 3
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 130.9735315570078,
+          "rolling": 9.979358144370753,
+          "hilly": -104.89414227305221,
+          "mountainous": -187.94014311536213
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 91.3,
+          "puncheur": 79,
+          "pursuiter": 42.9,
+          "climber": 40.9,
+          "tt": 59
+        },
+        "value": "Sprinter",
+        "bias": 27.77499999999999
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 5859202,
+      "name": "Andrew Holdcroft (T&S)",
+      "gender": "M",
+      "country": "gb",
+      "age": "Snr",
+      "height": 187,
+      "weight": 83.7,
+      "zpCategory": "B",
+      "zpFTP": 296,
+      "power": {
+        "wkg5": 9.15173237753883,
+        "wkg15": 10.083632019115889,
+        "wkg30": 6.9772998805256865,
+        "wkg60": 6.7622461170848265,
+        "wkg120": 4.408602150537634,
+        "wkg300": 4.408602150537634,
+        "wkg1200": 3.6798088410991636,
+        "w5": 766,
+        "w15": 844,
+        "w30": 584,
+        "w60": 566,
+        "w120": 369,
+        "w300": 369,
+        "w1200": 308,
+        "CP": 294.3946841813941,
+        "AWC": 16454.483889935924,
+        "compoundScore": 1458.8896603289895
+      },
+      "race": null,
+      "handicaps": {
+        "profile": {
+          "flat": -53.68713950010681,
+          "rolling": -223.9395628604999,
+          "hilly": -188.1967661824397,
+          "mountainous": -112.36368163853885
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 95.9,
+          "puncheur": 93.9,
+          "pursuiter": 83.8,
+          "climber": 76.6,
+          "tt": 90.2
+        },
+        "value": "Sprinter",
+        "bias": 8.349999999999994
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 5879996,
+      "name": "Gerard Corr",
+      "gender": "M",
+      "country": "ie",
+      "age": "Vet",
+      "height": 180,
+      "weight": 85,
+      "zpCategory": "B",
+      "zpFTP": 288,
+      "power": {
+        "wkg5": 11.0941,
+        "wkg15": 9.4471,
+        "wkg30": 7.0941,
+        "wkg60": 5.7176,
+        "wkg120": 5.1059,
+        "wkg300": 4.0941,
+        "wkg1200": 3.5765,
+        "w5": 943,
+        "w15": 803,
+        "w30": 603,
+        "w60": 486,
+        "w120": 434,
+        "w300": 348,
+        "w1200": 304,
+        "CP": 287.676146112596,
+        "AWC": 20084.583403194025,
+        "compoundScore": 1268.6046962363014
+      },
+      "race": {
+        "last": {
+          "rating": 1633.9725643307447,
+          "date": 1764873000,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "current": {
+          "rating": 1633.9725643307447,
+          "date": 1764873000,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "max30": {
+          "rating": 1633.9725643307447,
+          "date": 1764873000,
+          "expires": 1767465000,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "max90": {
+          "rating": 1653.668434863407,
+          "date": 1758823800,
+          "expires": 1772649000,
+          "mixed": {
+            "category": "Emerald",
+            "number": 3
+          }
+        },
+        "finishes": 8,
+        "dnfs": 0,
+        "wins": 0,
+        "podiums": 2
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 44.14744342902313,
+          "rolling": 38.375292061148016,
+          "hilly": -11.41744226612678,
+          "mountainous": -81.24144474697286
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 94.4,
+          "puncheur": 82.9,
+          "pursuiter": 74.4,
+          "climber": 72.5,
+          "tt": 88.9
+        },
+        "value": "Sprinter",
+        "bias": 13.349999999999994
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 5913482,
+      "name": "Sean Waples [T&S]",
+      "gender": "M",
+      "country": "us",
+      "age": "Mas",
+      "height": 184,
+      "weight": 73,
+      "zpCategory": "B",
+      "zpFTP": 264,
+      "power": {
+        "wkg5": 12,
+        "wkg15": 10.315068493150685,
+        "wkg30": 8.7432,
+        "wkg60": 7.205479452054795,
+        "wkg120": 5.534246575342466,
+        "wkg300": 4.657534246575342,
+        "wkg1200": 3.8767,
+        "w5": 876,
+        "w15": 753,
+        "w30": 647,
+        "w60": 526,
+        "w120": 404,
+        "w300": 340,
+        "w1200": 283,
+        "CP": 261.291461953703,
+        "AWC": 27209.23881960068,
+        "compoundScore": 1509.2596312216285
+      },
+      "race": {
+        "last": {
+          "rating": 1595.5437496730951,
+          "date": 1764702240,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "current": {
+          "rating": 1595.5437496730951,
+          "date": 1764702240,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "max30": {
+          "rating": 1595.5437496730951,
+          "date": 1764702240,
+          "expires": 1767294240,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "max90": {
+          "rating": 1595.5437496730951,
+          "date": 1764702240,
+          "expires": 1772478240,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "finishes": 8,
+        "dnfs": 0,
+        "wins": 0,
+        "podiums": 3
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 49.65464186719137,
+          "rolling": 20.752319929297233,
+          "hilly": -12.074077049773198,
+          "mountainous": -79.41724179488234
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 92.4,
+          "puncheur": 96.6,
+          "pursuiter": 89.3,
+          "climber": 83.6,
+          "tt": 79.3
+        },
+        "value": "Puncheur",
+        "bias": 6.125
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 5993288,
+      "name": "Todd Buttenham (T&S)",
+      "gender": "M",
+      "country": "ca",
+      "age": "60+",
+      "height": 183,
+      "weight": 92,
+      "zpCategory": "C",
+      "zpFTP": 269,
+      "power": {
+        "wkg5": 9.6739,
+        "wkg15": 8.3478,
+        "wkg30": 6.5761,
+        "wkg60": 5.1522,
+        "wkg120": 4.3913,
+        "wkg300": 3.4891,
+        "wkg1200": 3.0326,
+        "w5": 890,
+        "w15": 768,
+        "w30": 605,
+        "w60": 474,
+        "w120": 404,
+        "w300": 321,
+        "w1200": 279,
+        "CP": 263.90851275447875,
+        "AWC": 18418.797086914692,
+        "compoundScore": 960.4147293377309
+      },
+      "race": {
+        "last": {
+          "rating": 1067.177145213781,
+          "date": 1761327000,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "current": {
+          "rating": 1067.177145213781,
+          "date": 1761327000,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "max30": {
+          "rating": 0,
+          "expires": 1763919000
+        },
+        "max90": {
+          "rating": 1096.0657872489655,
+          "date": 1759257060,
+          "expires": 1769103000,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "finishes": 12,
+        "dnfs": 0,
+        "wins": 1,
+        "podiums": 2
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 92.8561687611863,
+          "rolling": 7.771439610142519,
+          "hilly": -77.71439610142477,
+          "mountainous": -161.46544593872798
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 92.5,
+          "puncheur": 70.1,
+          "pursuiter": 49.5,
+          "climber": 45,
+          "tt": 77.2
+        },
+        "value": "Sprinter",
+        "bias": 28.224999999999994
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 6120611,
+      "name": "Sam Nettel [T&S]",
+      "gender": "M",
+      "country": "gb",
+      "age": "Snr",
+      "height": 178,
+      "weight": 78,
+      "zpCategory": "B",
+      "zpFTP": 281,
+      "power": {
+        "wkg5": 11.7949,
+        "wkg15": 9.1667,
+        "wkg30": 7.8974,
+        "wkg60": 6.32051282051282,
+        "wkg120": 5.1667,
+        "wkg300": 4.410256410256411,
+        "wkg1200": 3.8462,
+        "w5": 920,
+        "w15": 715,
+        "w30": 616,
+        "w60": 493,
+        "w120": 403,
+        "w300": 344,
+        "w1200": 300,
+        "CP": 283.383237946882,
+        "AWC": 20677.046065690094,
+        "compoundScore": 1404.7483380816716
+      },
+      "race": {
+        "last": {
+          "rating": 1545.6116831381585,
+          "date": 1764702240,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "current": {
+          "rating": 1545.6116831381585,
+          "date": 1764702240,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "max30": {
+          "rating": 1546.2053780312183,
+          "date": 1762690200,
+          "expires": 1767294240,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "max90": {
+          "rating": 1546.2053780312183,
+          "date": 1762690200,
+          "expires": 1772478240,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "finishes": 6,
+        "dnfs": 0,
+        "wins": 1,
+        "podiums": 2
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 25.215232668565992,
+          "rolling": -7.374928774928856,
+          "hilly": -29.148528015194728,
+          "mountainous": -41.678883190883184
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 93,
+          "puncheur": 89.9,
+          "pursuiter": 83.9,
+          "climber": 82.7,
+          "tt": 87.3
+        },
+        "value": "Sprinter",
+        "bias": 5.625
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 6317528,
+      "name": "Paige Fitzsimmons [CRC / T&S]",
+      "gender": "F",
+      "country": "ca",
+      "age": "Mas",
+      "height": 160,
+      "weight": 66,
+      "zpCategory": "C",
+      "zpFTP": 214,
+      "power": {
+        "wkg5": 8.5758,
+        "wkg15": 7.4545,
+        "wkg30": 6.0606,
+        "wkg60": 4.7424,
+        "wkg120": 4.2576,
+        "wkg300": 3.7121,
+        "wkg1200": 3.3636,
+        "w5": 566,
+        "w15": 492,
+        "w30": 400,
+        "w60": 313,
+        "w120": 281,
+        "w300": 245,
+        "w1200": 222,
+        "CP": 213.04858246271786,
+        "AWC": 11177.271342507307,
+        "compoundScore": 903.8968608394496
+      },
+      "race": {
+        "last": {
+          "rating": 997.645472117741,
+          "date": 1764702960,
+          "mixed": {
+            "category": "Silver",
+            "number": 8
+          },
+          "womens": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "current": {
+          "rating": 997.645472117741,
+          "date": 1764702960,
+          "mixed": {
+            "category": "Silver",
+            "number": 8
+          },
+          "womens": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "max30": {
+          "rating": 997.9352230257527,
+          "date": 1762885080,
+          "expires": 1767294960,
+          "mixed": {
+            "category": "Silver",
+            "number": 8
+          },
+          "womens": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "max90": {
+          "rating": 997.9352230257527,
+          "date": 1762885080,
+          "expires": 1772478960,
+          "mixed": {
+            "category": "Silver",
+            "number": 8
+          },
+          "womens": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "finishes": 11,
+        "dnfs": 0,
+        "wins": 3,
+        "podiums": 5
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 1.554018161175751,
+          "rolling": -42.735499432331245,
+          "hilly": -55.30476397125223,
+          "mountainous": -33.694770247609206
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 58.1,
+          "puncheur": 59.8,
+          "pursuiter": 59.5,
+          "climber": 62.4,
+          "tt": 36.6
+        },
+        "value": "Climber",
+        "bias": 2.4499999999999957
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 7240535,
+      "name": "Seb Rose",
+      "gender": "M",
+      "country": "ca",
+      "age": "Snr",
+      "height": 175,
+      "weight": 89,
+      "zpCategory": "C",
+      "zpFTP": 265,
+      "power": {
+        "wkg5": 12.0889,
+        "wkg15": 9.5618,
+        "wkg30": 7.1,
+        "wkg60": 5.7111,
+        "wkg120": 4.0889,
+        "wkg300": 3.5444,
+        "wkg1200": 3.1236,
+        "w5": 1088,
+        "w15": 851,
+        "w30": 639,
+        "w60": 514,
+        "w120": 368,
+        "w300": 319,
+        "w1200": 278,
+        "CP": 264.02536730355854,
+        "AWC": 17068.34451275968,
+        "compoundScore": 979.8961660799998
+      },
+      "race": {
+        "last": {
+          "rating": 1076.4086872664143,
+          "date": 1765134600,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "current": {
+          "rating": 1076.4086872664143,
+          "date": 1765134600,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "max30": {
+          "rating": 1076.4086872664143,
+          "date": 1765134600,
+          "expires": 1767726600,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "max90": {
+          "rating": 1076.4086872664143,
+          "date": 1765134600,
+          "expires": 1772910600,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "finishes": 5,
+        "dnfs": 0,
+        "wins": 0,
+        "podiums": 3
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 83.48715335001597,
+          "rolling": -86.47583665655999,
+          "hilly": -158.74317890495996,
+          "mountainous": -173.95116740252155
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 98.3,
+          "puncheur": 81.5,
+          "pursuiter": 52.2,
+          "climber": 50,
+          "tt": 76.6
+        },
+        "value": "Sprinter",
+        "bias": 27.799999999999997
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 7250920,
+      "name": "Amelia McCormack",
+      "gender": "F",
+      "country": "gb",
+      "age": "Snr",
+      "height": 170,
+      "weight": 65,
+      "zpCategory": "C",
+      "zpFTP": 193,
+      "power": {
+        "wkg5": 8.8462,
+        "wkg15": 8.4923,
+        "wkg30": 7.2308,
+        "wkg60": 5.4769,
+        "wkg120": 4.0308,
+        "wkg300": 3.3846,
+        "wkg1200": 3.0923076923076924,
+        "w5": 575,
+        "w15": 552,
+        "w30": 470,
+        "w60": 356,
+        "w120": 262,
+        "w300": 220,
+        "w1200": 201,
+        "CP": 194.40405062384704,
+        "AWC": 7942.165814176419,
+        "compoundScore": 744.6086154
+      },
+      "race": {
+        "last": {
+          "rating": 744.6086154,
+          "date": 1764097620,
+          "mixed": {
+            "category": "Bronze",
+            "number": 9
+          },
+          "womens": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "current": {
+          "rating": 744.6086154,
+          "date": 1764097620,
+          "mixed": {
+            "category": "Bronze",
+            "number": 9
+          },
+          "womens": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "max30": {
+          "rating": 744.6086154,
+          "date": 1764097620,
+          "expires": 1766689620,
+          "mixed": {
+            "category": "Bronze",
+            "number": 9
+          },
+          "womens": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "max90": {
+          "rating": 744.6086154,
+          "date": 1764097620,
+          "expires": 1771873620,
+          "mixed": {
+            "category": "Bronze",
+            "number": 9
+          },
+          "womens": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "finishes": 2,
+        "dnfs": 0,
+        "wins": 0,
+        "podiums": 0
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 85.40660818638003,
+          "rolling": -39.83656092389998,
+          "hilly": -112.80820523309995,
+          "mountainous": -122.02645989175197
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 68.6,
+          "puncheur": 76.7,
+          "pursuiter": 44.2,
+          "climber": 47.4,
+          "tt": 22.9
+        },
+        "value": "Puncheur",
+        "bias": 17.475
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 7252254,
+      "name": "Tom Perdy",
+      "gender": "M",
+      "country": "cz",
+      "age": "Mas",
+      "height": 185,
+      "weight": 80,
+      "zpCategory": "B",
+      "zpFTP": 284,
+      "power": {
+        "wkg5": 7.425,
+        "wkg15": 7.3951,
+        "wkg30": 7.2125,
+        "wkg60": 6.358,
+        "wkg120": 5.4375,
+        "wkg300": 4.225,
+        "wkg1200": 3.7625,
+        "w5": 594,
+        "w15": 599,
+        "w30": 577,
+        "w60": 515,
+        "w120": 435,
+        "w300": 338,
+        "w1200": 301,
+        "CP": 287.8564595662517,
+        "AWC": 15886.60959709224,
+        "compoundScore": 1307.369718309859
+      },
+      "race": {
+        "last": {
+          "rating": 1490.7946674518837,
+          "date": 1765120200,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "current": {
+          "rating": 1490.7946674518837,
+          "date": 1765120200,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "max30": {
+          "rating": 1490.7946674518837,
+          "date": 1765120200,
+          "expires": 1767712200,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "max90": {
+          "rating": 1490.7946674518837,
+          "date": 1765120200,
+          "expires": 1772896200,
+          "mixed": {
+            "category": "Sapphire",
+            "number": 4
+          }
+        },
+        "finishes": 18,
+        "dnfs": 4,
+        "wins": 3,
+        "podiums": 4
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 46.28088802816887,
+          "rolling": 118.31695950704213,
+          "hilly": 47.06530985915476,
+          "mountainous": -10.981905633803002
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 85.1,
+          "puncheur": 90.4,
+          "pursuiter": 78.8,
+          "climber": 79.8,
+          "tt": 87.8
+        },
+        "value": "Puncheur",
+        "bias": 6.875
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    },
+    {
+      "riderId": 7329763,
+      "name": "Steve D",
+      "gender": "M",
+      "country": "gb",
+      "age": "Vet",
+      "height": 175,
+      "weight": 69.6,
+      "zpCategory": "B",
+      "zpFTP": 242,
+      "power": {
+        "wkg5": 10.359195402298852,
+        "wkg15": 7.9454,
+        "wkg30": 7.6293,
+        "wkg60": 5.7902,
+        "wkg120": 4.4828,
+        "wkg300": 4.022988505747127,
+        "wkg1200": 3.477011494252874,
+        "w5": 721,
+        "w15": 553,
+        "w30": 531,
+        "w60": 403,
+        "w120": 312,
+        "w300": 280,
+        "w1200": 242,
+        "CP": 227.91806635414156,
+        "AWC": 17713.559985556607,
+        "compoundScore": 1095.4277499191755
+      },
+      "race": {
+        "last": {
+          "rating": 1095.2632321330934,
+          "date": 1764789600,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "current": {
+          "rating": 1095.2632321330934,
+          "date": 1764789600,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "max30": {
+          "rating": 1095.2632321330934,
+          "date": 1764789600,
+          "expires": 1767381600,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "max90": {
+          "rating": 1095.2632321330934,
+          "date": 1764789600,
+          "expires": 1772565600,
+          "mixed": {
+            "category": "Gold",
+            "number": 7
+          }
+        },
+        "finishes": 9,
+        "dnfs": 0,
+        "wins": 0,
+        "podiums": 2
+      },
+      "handicaps": {
+        "profile": {
+          "flat": 46.66522214655693,
+          "rolling": -55.04524443343848,
+          "hilly": -68.4642343699484,
+          "mountainous": -63.622443715305664
+        }
+      },
+      "phenotype": {
+        "scores": {
+          "sprinter": 78,
+          "puncheur": 82.6,
+          "pursuiter": 71.8,
+          "climber": 68,
+          "tt": 51.4
+        },
+        "value": "Puncheur",
+        "bias": 7.5
+      },
+      "club": {
+        "id": 20650,
+        "name": "Tea & Scone"
+      }
+    }
+  ]
+}
