@@ -4,22 +4,20 @@
 
 - Linux development environment (window users, see WSL2)
 - Python
-- ``uv`` package manager
-- ``direnv`` environment variable manager %mdash; add the ``.envrc`` file in the project root
-    ```
-    # Handle windows carriage-returns
-    sed -i 's/\r$//' .env
-
-    # Export .env variables
-    set -a
-    source .env
-    set +a
-    ```
-- ZwiftRacing.app API key &mdash; add to a ``.env`` file
+- ZwiftRacing.app API key &mdash; recommmend that you add to a ``.env`` file and load to environment using ``direnv``
     ```
     ZRAPP_API_KEY="YOUR_KEY"
     ```
     If using git, add ``.env`` to ``.gitignore``
+- Also recommend ``uv`` as a package manager
 
+## Demo 1: Endpoints
 
+This contains basic usage of all zwiftracing.app API endpoints. See the associated (README)[endpoints/README.md] file for details.
 
+## Coming soon...
+
+- dlt
+- duckdb/motherduck
+- dbt
+- streamlit
