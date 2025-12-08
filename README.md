@@ -10,15 +10,21 @@
 
 ## Demo 1: Extract from ZRAPP
 
-This contains basic usage of all zwiftracing.app API endpoints allowing users ton extract from the data source. 
+This [demo](extract/) contains basic usage of all zwiftracing.app API endpoints allowing users ton extract from the data source. 
 Each endpoint has a ready-to-use function that takes an ID/list of IDs for the rider(s), club or event of interest as an input and returns the data as a Python object (a dictionary or list of dictionaries depending on the endpoint).
- 
-See the associated [README](extract/README.md) file for details, [endpoints.py](extract/endpoints.py) for each function and [data/](extract/data/) for examples of outputs.
+
+
+## Demo 2: Load data to DuckDB
+
+This [demo](load/) contains a basic demo of loading data from a ZwiftRacing.app API endpoint into a pair of DuckDB tables in a database, along with some intstruction on basic SQL code to explore data.
+
 
 ## Coming soon...
 
 - setting up a dev environment
-- duckdb/motherduck; incl. notebooks/UI
 - dlt
 - dbt
 - streamlit
+
+
+<!-- Motherduck? and TARGET -->
