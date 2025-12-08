@@ -1,12 +1,12 @@
 # Demo: Basic usage of ZwiftRacing.app endpoints
 
-**Aim:** Create Python functions to extract data from each ZwiftRacing.app endpoint and save it locally as a ``json`` file.
+**Aim:** Create Python functions to extract data from each ZwiftRacing.app endpoint.
 
 ## Prerequisites
 
-- Development Environment
+- Development environment
 - ZwiftRacing.app API key in your environment
-- A ``./data`` folder
+
 
 ## Endpoints
 

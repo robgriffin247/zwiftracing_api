@@ -1,21 +1,24 @@
 # Using the ZwiftRacing API with Python
 
-## Prerequisites
+<!-- 
+# Demo 0: Setting up a development environment in Windows
 
-- Linux development environment (window users, see WSL2)
-- Python
-- ZwiftRacing.app API key &mdash; recommmend that you add to a ``.env`` file and load to environment using ``direnv``
-    - If using git, add ``.env`` to ``.gitignore``
-- Also recommended: ``uv`` package manager
+- WSL2
+- uv
+- direnv
+-->
 
-## Demo 1: Endpoints
+## Demo 1: Extract from ZRAPP
 
-This contains basic usage of all zwiftracing.app API endpoints. See the associated [README](endpoints/README.md) file for details.
+This contains basic usage of all zwiftracing.app API endpoints allowing users ton extract from the data source. 
+Each endpoint has a ready-to-use function that takes an ID/list of IDs for the rider(s), club or event of interest as an input and returns the data as a Python object (a dictionary or list of dictionaries depending on the endpoint).
+ 
+See the associated [README](01_extract_from_zrapp/README.md) file for details, [endpoints.py](01_extract_from_zrapp/endpoints.py) for each function and [data/](01_extract_from_zrapp/data/) for examples of outputs.
 
 ## Coming soon...
 
 - setting up a dev environment
+- duckdb/motherduck; incl. notebooks/UI
 - dlt
-- duckdb/motherduck
 - dbt
 - streamlit
