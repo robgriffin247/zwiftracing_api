@@ -19,10 +19,10 @@ def get_club(id: int, from_id: int = None):
     return response.json()
 
 
-# RESULTS =========================================================================================
+# EVENT ===========================================================================================
 # Returns a dictionary contain event details and ordered list of riders (not like riders endpoint) in results
-# - e.g. get_results(5188741)
-def get_results(id: int):
+# - e.g. get_event(5188741)
+def get_event(id: int):
     response = httpx.get(url=f"{ZRAPP_API_URL}results/{id}", headers=HEADER)
     response.raise_for_status()
     return response.json()
@@ -63,5 +63,5 @@ if __name__ == "__main__":
 
     id = 4598636
     rider = get_rider(id)
-    with open(f"01_extract_from_zrapp/data/rider_{id}.json", "w") as f:
+    with open(f"extract/data/rider_{id}.json", "w") as f:
         json.dump(rider, f)

@@ -1,4 +1,4 @@
-# Demo: Basic usage of ZwiftRacing.app endpoints
+# Demo 1: Extract from ZwiftRacing.app endpoints
 
 **Aim:** Create Python functions to extract data from each ZwiftRacing.app endpoint.
 
@@ -52,3 +52,57 @@
 - Takes a single integer input of an event/race ID
 - Returns a list of riders sorted on position from ZwiftPower
 - Payload returned as a [list of dictionaries, each representing one rider](data/zp_results.json)
+
+
+
+## Using the data
+
+1. Get the data &mdash; I've called it ``event`` as it contains more than just results
+
+    ```
+    event = get_event(5188741)
+    ```
+
+1. If you save the data as json file, you can can load it to reduce load on the ZwiftRacing.app API    
+    
+    - Save
+
+        ```
+        id = 5188741
+        event = get_event(id)
+        with open(f"load/data/event_{id}.json", "w") as f:
+            json.dump(event, f)
+        ```
+
+    - Load
+
+        ```
+        with open("extract/data/event_5188741.json", "r") as f:
+            event = json.load(f)
+        ```    
+
+1. Explore the ``event`` dictionary object; &mdash; these are the keys
+
+    ```
+    for k in event.keys():
+        print(k)
+    ```
+
+1. Get a value using ``get()``
+
+    ```
+    print(event.get("eventId"))
+    ```
+
+1. The the results data &mdash; a list of dictionaries, one per finisher/rider
+
+    ```
+    results = event.get("results")
+    ```
+
+1. Print the keys of the first rider
+
+    ```
+    for r in results[0].keys():
+        print(r)
+    ```
