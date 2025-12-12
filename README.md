@@ -19,10 +19,13 @@ Each endpoint has a ready-to-use function that takes an ID/list of IDs for the r
 This [demo](load/) contains a basic demo of loading data from a ZwiftRacing.app API endpoint into a pair of DuckDB tables in a database, along with some intstruction on basic SQL code to explore data.
 
 
+## Demo 3: Ingest with dlt
+
+This [demo](ingest/) contains an example of loading data to DuckDB using dlt, a tool to make loading complex data sources to databases extremely simple.
+
 ## Coming soon...
 
 - setting up a dev environment
-- dlt
 - dbt
 - streamlit
 
