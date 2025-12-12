@@ -3,9 +3,7 @@ import dlt
 import os
 import httpx
 import json
-
-
-
+import time
 
 @dlt.resource(
     name="events", 
@@ -30,17 +28,13 @@ def fetch_event(id):
 
     event["results"] = results
 
-
     yield event
 
 def ingest_event(id):
-    _destination =dlt.destinations.duckdb(
-        credentials="ingest/data/zwiftracing_api_demo_ingest.duckdb"
-    )
 
     pipeline = dlt.pipeline(
         pipeline_name=f"zwiftracing_api_demo_ingest_pipeline",
-        destination=_destination,
+        destination=dlt.destinations.duckdb("ingest/data/zwiftracing_api_demo_ingest.duckdb"),
         dataset_name="zwiftracing_api",
     )
 
@@ -49,7 +43,11 @@ def ingest_event(id):
     return load_info
 
 
-
 if __name__=="__main__":
-    
-    ingest_event(5188741)
+    ids = [5188741, 5200082]
+    i = 0
+    for id in ids:
+        i += 1
+        ingest_event(id)
+        if i<len(ids):
+            time.sleep(61)
